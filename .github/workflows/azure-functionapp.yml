@@ -4,7 +4,7 @@ on:
       - master
 
 env:
-  ResourceGroup: letsencrypt-func
+  ResourceGroup: web-portfolio
 jobs:
   build:
     runs-on: ubuntu-latest
