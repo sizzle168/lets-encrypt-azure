@@ -4,7 +4,7 @@ on:
       - master
 
 env:
-  ResourceGroup: web-portfolio
+  ResourceGroup: web-portfolio-cert
 jobs:
   build:
     runs-on: ubuntu-latest
