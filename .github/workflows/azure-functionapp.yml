@@ -4,7 +4,7 @@ on:
       - master
 
 env:
-  ResourceGroup: web-portfolio-cert
+  ResourceGroup: hhlab-cert-grp
 jobs:
   build:
     runs-on: ubuntu-latest
